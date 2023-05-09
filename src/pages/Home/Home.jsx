@@ -10,6 +10,7 @@ const Home = () => {
         kepCim="./images/home.jpg"
         desc="Üdvözlünk az otthonunkban!"
       />
+      <h2>Cím</h2>
     </div>
   );
 };
